@@ -1,6 +1,6 @@
 {
   "name": "titlize",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Title capitalization",
   "main": "lib/titlize.js",
   "repository": {
