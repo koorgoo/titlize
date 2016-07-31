@@ -14,6 +14,6 @@ titlize('title of a song') === 'Title of a Song'
 ### Install
 
 ```shell
-npm install titlize
-bower install titlize
+npm install koorgoo/titlize
+bower install koorgoo/titlize
 ```

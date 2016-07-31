@@ -1,18 +1,18 @@
 {
   "name": "titlize",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Title capitalization",
   "main": "lib/titlize.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sonario/titlize.git"
+    "url": "https://github.com/koorgoo/titlize.git"
   },
   "author": "Dima Kurguzov <koorgoo@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sonario/titlize/issues"
+    "url": "https://github.com/koorgoo/titlize/issues"
   },
-  "homepage": "https://github.com/sonario/titlize",
+  "homepage": "https://github.com/koorgoo/titlize",
   "devDependencies": {
     "jshint": "^2.5.6",
     "nodeunit": "^0.9.0"

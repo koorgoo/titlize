@@ -1,8 +1,8 @@
 {
   "name": "titlize",
   "main": "lib/titlize.js",
-  "version": "0.1.1",
-  "homepage": "https://github.com/sonario/titlize",
+  "version": "0.1.2",
+  "homepage": "https://github.com/koorgoo/titlize",
   "authors": [
     "Dima Kurguzov <koorgoo@gmail.com>"
   ],
